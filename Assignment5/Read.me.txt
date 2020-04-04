@@ -1,0 +1,18 @@
+This is the Assignment 5 of HCI
+This Assignment aims to create an Android app game that user can test their reaction time.
+
+version: 2.0
+since: 03-30-2020
+author: Dayuan Chen
+
+IMPORTANT: This app is created using Android phone with 5.5 1440x2560 560dpi (Pixel XL)
+
+Launching this app will run the first activity. User can choose wether 'start game' or check 'score board'.
+
+Touch 'start game' enters game activity. It will firstly show a instruction TextView and disappear after 3 seconds, then the game starts and chronometer starts. After game ends, it will decide if this is a high score, if it is, it allows user to chose wether upload this score or go back.
+If user decide to upload score, it will goes into another activity to add score, whereas the score is pre-written the game score and cannot modified.
+
+Touch 'score board' enters scoreBoard activity. This activity reference previous homework to display the score list.
+
+This games score counting method is not exacty as in the word, while still reasonable.
+

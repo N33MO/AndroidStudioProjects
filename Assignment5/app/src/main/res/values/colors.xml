@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFF4511E</color>
+    <color name="colorPrimaryDark">#FF1B5E20</color>
+    <color name="colorAccent">#FF03DAC5</color>
+
+    <color name="shapeColor_Red">#FFFF0000</color>
+    <color name="shapeColor_Orange">#FFFF6F00</color>
+    <color name="shapeColor_Yellow">#FFFFDD00</color>
+    <color name="shapeColor_Green">#FF00C30A</color>
+    <color name="shapeColor_Blue">#FF0055FF</color>
+    <color name="shapeColor_Purple">#FF6A00FF</color>
+    <color name="shapeColor_White">#FFFFFFFF</color>
+    <color name="backgroundColor_dark">#E22C2C2C</color>
+    <color name="backgroundColor_box_light">#FFF4511E</color>
+</resources>
